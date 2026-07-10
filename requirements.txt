@@ -1,9 +1,9 @@
-streamlit==1.31.0 
-pandas==2.0.3 
-numpy==1.24.3 
-scikit-learn==1.2.2 
-xgboost==1.7.6 
-shap==0.42.1 
+streamlit 
+pandas 
+numpy==1.26.4 
+scikit-learn 
+xgboost 
+shap 
 matplotlib 
 seaborn 
 pyarrow 
