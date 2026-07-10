@@ -1,1 +1,10 @@
-streamlit pandas numpy scikit-learn xgboost shap matplotlib seaborn pyarrow joblib 
+streamlit 
+pandas 
+numpy 
+scikit-learn 
+xgboost 
+shap 
+matplotlib 
+seaborn 
+pyarrow 
+joblib
