@@ -19,7 +19,7 @@ import shap
 
 st.set_page_config(page_title="Smart Meter Theft Detection", layout="wide")
 
-st.title("⚡ Smart Meter Electricity Theft Detection")
+st.title("⚡ Smart Meter Theft Detection by Mohan")
 st.caption("Hybrid ML system: Isolation Forest (anomaly detection) + XGBoost (classification) + SHAP (explainability)")
 
 @st.cache_resource
